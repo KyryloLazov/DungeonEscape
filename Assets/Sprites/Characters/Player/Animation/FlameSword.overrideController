@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlameSword
+  m_Controller: {fileID: 9100000, guid: a5a7919ae7babe441af50a5083fe6195, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8a76b2cdf4005ba4da71a6066fe5539e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1b57d86d207da54bb1ca4d90f035487, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4e009fc36c874b46a5e23116b6dda05, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c19925d578c257747a47c6a55a3fc572, type: 2}
